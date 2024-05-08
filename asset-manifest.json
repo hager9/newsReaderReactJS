@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newsReaderReactJS/static/css/main.ea360344.css",
+    "main.js": "/newsReaderReactJS/static/js/main.0f391dfd.js",
+    "static/media/3d-morph-man-with-hazard-cones.jpg": "/newsReaderReactJS/static/media/3d-morph-man-with-hazard-cones.5053f3e1518cc68ab8a5.jpg",
+    "index.html": "/newsReaderReactJS/index.html",
+    "main.ea360344.css.map": "/newsReaderReactJS/static/css/main.ea360344.css.map",
+    "main.0f391dfd.js.map": "/newsReaderReactJS/static/js/main.0f391dfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea360344.css",
+    "static/js/main.0f391dfd.js"
+  ]
+}
