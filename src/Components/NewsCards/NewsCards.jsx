@@ -14,7 +14,6 @@ export default function NewsCards({articles , activeArticle}) {
       <div className="container my-5">
         <div className='mb-5'>
         <h1 className='text-capitalize fs-1 display-1 text-center fw-bolder rounded-2 mx-auto  py-3 px-5'>Alan AI </h1>
-      <p className='fw-bold text-center fs-4 text-truncate'>Say Hello To Alan</p>
         </div>
       
     <div className="row g-4">
